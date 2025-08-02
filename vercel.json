@@ -1,5 +1,5 @@
 {
   "rewrites": [
-    { "source": "/(.*)", "destination": "/public/$1" }
+    { "source": "/(.*)", "destination": "https://teste-liderfruit-2fdmbpeyh-lucas-projects-1dd37544.vercel.app/" }
   ]
 }
